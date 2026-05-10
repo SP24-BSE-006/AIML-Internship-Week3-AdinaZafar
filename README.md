@@ -32,4 +32,4 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, SciPy
 
 **Dashboard Preview**
 
-![Dashboard](week3_dashboard.png)
+![Dashboard](week3_dashboard (1).png)
