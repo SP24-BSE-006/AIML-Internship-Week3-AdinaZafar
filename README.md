@@ -1,10 +1,10 @@
 # Week 3 — Data Visualization & Feature Engineering
 
 **Student:** Adina Zafar | SP24-BSE-006
-**Internship:** AI/ML — Week 3 of 8
+**Internship:** AI/ML Internship Program — Week 3 of 8
 **Instructor:** Zain Ul Abideen
 
- **Dataset**
+**Dataset**
 House Prices — Advanced Regression Techniques
 Source: Kaggle | 1460 rows, 81 columns | Target: SalePrice
 
@@ -32,5 +32,5 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, SciPy
 
 **Dashboard Preview**
 
-![Dashboard](week3_dashboard (1).png)
+![Dashboard](week3_dashboard%20(1).png)
 
